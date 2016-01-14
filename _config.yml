@@ -1,7 +1,7 @@
 name: rolffz
 favicon: null
-layout_spectrum: 0.11275166575796902
-typography_spectrum: 0.42929748399183154
+layout_spectrum: 1
+typography_spectrum: 0.59692
 title: Rolff - current events
 cta:
   domain: null
@@ -22,8 +22,8 @@ color:
     - '#CD5334'
     - '#EDB88B'
     - '#FAD8D6'
-  brandStrength: 0.4617039645090699
-  lightness: 0.7718315895181149
-  saturation: 0.5968414021190256
-  rhythmicContrast: 0.1313730925321579
+  brandStrength: 0.8125
+  lightness: 0.375
+  saturation: 0.5
+  rhythmicContrast: 0
 purpose: []
