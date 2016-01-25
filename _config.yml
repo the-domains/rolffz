@@ -1,29 +1,41 @@
-name: rolffz
-favicon: null
-layout_spectrum: 1
-typography_spectrum: 0.59692
 title: Rolff - current events
+purpose: []
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+color:
+  saturation: 0.3363202
+  brandStrength: 1
+  lightness: 0.3721625
+  brandColors:
+    - '#4B4B4B'
+    - '#282620'
+    - '#FFFFF3'
+    - '#BD9B77'
+    - '#E0BD91'
+  rhythmicContrast: 1
 cta:
-  domain: null
   bucket: null
   version: null
+  domain: null
 analytics:
+  twitter: null
   google: null
   facebook: null
-  twitter: null
+favicon: null
+name: rolffz
 opengraph:
   image: null
   type: null
   appId: null
-color:
-  brandColors:
-    - '#17BEBB'
-    - '#2E282A'
-    - '#CD5334'
-    - '#EDB88B'
-    - '#FAD8D6'
-  brandStrength: 0.8125
-  lightness: 0.375
-  saturation: 0.5
-  rhythmicContrast: 0
-purpose: []
+typography_spectrum: 0.5621266
+layout_spectrum: 1
